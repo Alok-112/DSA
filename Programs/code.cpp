@@ -9,4 +9,5 @@ int main()
     bool isSafe = true;    // Bool :- 1 byte
     double price = 100.99; // Double:- 8 byte
     cout << price << endl;
+    //check
 }
