@@ -14,5 +14,8 @@ int main()
     return 0;
 }
 
+
 // apply same the logic with while loop and try to implement it .
-// Sum of all odd numbers from 1 to N   
+
+// Sum of all even numbers from 1 to N  using for loop
+// Sum of all odd numbers from 1 to N  using for loop  
