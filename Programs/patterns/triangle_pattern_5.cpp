@@ -1,5 +1,4 @@
 // Reverse Triangle Pattern
-
 #include <iostream>
 using namespace std;
 int main()
